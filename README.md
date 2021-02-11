@@ -9,6 +9,6 @@ Defina um predicado, tp4/2, que, recebendo uma lista de números inteiros, const
   - Se o seu número de estudante for ímpar, inclua nas duas primeiras posições da lista o produto e a soma de todos os algarismos do seu número de estudante.
 
 Exemplos:
-?- tp4([1,7,0,1,1,7,2],L).
-L = [19, 98, 1, 7, 0, 1, 1, 7, 2].
+?- tp4([1,7,0,1,1,7,2],L).<br>
+L = [19, 98, 1, 7, 0, 1, 1, 7, 2].<br>
 yes
